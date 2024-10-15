@@ -3,8 +3,8 @@
 node_modules
 
 # dotnet
-bin/
-obj/
+**/bin/**/*
+**/obj/**/*
 
 # Mac Stuff
 .DS_Store 
