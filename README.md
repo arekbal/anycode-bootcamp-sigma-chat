@@ -1,5 +1,37 @@
+# AnyCode Bootcamp Sigma Chat
 
+## Backend
 
-be/WebSockets starts under `http://localhost:5000`
+```sh
+cd ./be/WebSockets
+```
 
-fe starts to `http://localhost:3000`
+```sh
+dotnet run
+```
+
+or
+
+```sh
+dotnet watch
+```
+
+BE starts with `http://localhost:5000`
+
+## Frontend
+
+```sh
+cd ./be/WebSockets
+```
+
+```sh
+npm install
+```
+
+```sh
+npm start
+```
+
+FE starts with `http://localhost:3000`
+
+Tries to connect to the BE service and writes the response to console (press `F12` in the browser to see).
