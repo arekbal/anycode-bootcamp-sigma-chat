@@ -21,7 +21,7 @@ BE starts with `http://localhost:5000`
 ## Frontend
 
 ```sh
-cd ./be/WebSockets
+cd ./fe
 ```
 
 ```sh
