@@ -1,2 +1,10 @@
-.DS_Store
+
+# npm
 node_modules
+
+# dotnet
+bin/
+obj/
+
+# Mac Stuff
+.DS_Store 
