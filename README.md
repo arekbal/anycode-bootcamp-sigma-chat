@@ -3,7 +3,7 @@
 ## Backend
 
 ```sh
-cd ./be/WebSockets
+cd ./be/ChatAPI
 ```
 
 ```sh
